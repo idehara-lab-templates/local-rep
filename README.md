@@ -14,6 +14,8 @@
 4. ニュースサイトの記事から、重要な部分を 10 字 - 20 字程度で[引用](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text) しなさい
 5. これらを、MarkDown で記述しなさい。
 
+## 注意
 
+今回、`main` ブランチは、直接の編集を禁止しています。きちんとプルリクエスト→マージの手順を踏んでください。
 
 
